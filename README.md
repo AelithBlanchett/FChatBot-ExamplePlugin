@@ -14,3 +14,6 @@ The usual format for the code is like this: 'ADH-xxxxxxxxxxxxxxxxxxxx'
 !availableplugins will show the list of plugins in the /plugins folder.
 !loadplugin pluginname will load the plugin /plugins/pluginname.js
 Once the bot loads a plugin or joins a room, the bot will save and remember to connect to these rooms, and automatically load these plugins.
+6. Type ''!loadplugin my_plugin' in the chat, and it will tell you which commands it has loaded.
+7. You should see that the !guide command has been added, so type it into the chat, and read its output.
+8. Once you have read it, you're ready to go!
